@@ -15,4 +15,4 @@
 <h2 => Скриншот выполнения программы для теста(слон): </a> 
 <img src="https://github.com/Katerina001Tr/lab-7-chess/blob/main/screenshots/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20(1052).png" alt="">
 <h2 => Скриншот выполнения программы для теста(конь): </a> 
-<img src=" " alt="">
+<img src="https://github.com/Katerina001Tr/lab-7-chess/blob/main/screenshots/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20(1053).png" alt="">
