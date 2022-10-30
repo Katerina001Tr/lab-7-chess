@@ -55,5 +55,9 @@
             if k1==m and i1==n:
                 return 1
         return 0
-
+k = Vvod(1, 1)
+i = Vvod(2, 1)
+m = Vvod(1, 2)
+n = Vvod(2, 2)
+print(f'Клетка 1: ({k},{i}); Клетка 2: ({m},{n})')
             
